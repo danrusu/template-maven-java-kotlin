@@ -1,6 +1,6 @@
 package ro.qatools;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class JavaHelloTest {
     @Test
