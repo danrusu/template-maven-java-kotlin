@@ -1,4 +1,4 @@
-#template-java-kotlin
+# template-java-kotlin
 
 ### Java and Kotlin Maven Project
 
