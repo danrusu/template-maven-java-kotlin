@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ro.qatools</groupId>
-    <artifactId>template-java-kotlin</artifactId>
+    <artifactId>template-maven-java-kotlin</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>ro.qatools.template-java-kotlin</name>
+    <name>ro.qatools.template-maven-java-kotlin</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
